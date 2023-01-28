@@ -1,4 +1,4 @@
-const app_url = "https://eggplant-glitter-spinach.glitch.me";
+const app_url = "https://pink-quaint-shark.cyclic.app";
 const express = require("express");
 const app = express();
 const port = 3000;
