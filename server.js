@@ -1,4 +1,4 @@
-const app_url = "green-block-3863.on.fleek.co";
+const app_url = "xdtut-6aaaa-aaaad-qe6nq-cai.ic.fleek.co";
 const express = require("express");
 const app = express();
 const port = 3000;
